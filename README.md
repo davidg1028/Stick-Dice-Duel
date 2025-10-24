@@ -7,3 +7,6 @@ A turn-based stick figure fighting game where players roll dice to determine att
 3. The roll determines the move and damage dealt.
 4. Your opponent's HP decreases accordingly.
 5. The match continues until one fighter's HP reaches zero
+
+## 🚀 How to Run
+Make sure you have Python installed, then run:
