@@ -1,4 +1,0 @@
-Mage,40,Meteor Strike: Calls meteor from other worlds,10,Graviola: Casts a gravity changing impact around the foe,5
-Monk,35,Fist of Iron: 2 simultaneausly attacks,11,Drunken Style: Sips sake and attacks with elegance,5
-Goblin,50,Intimidation: Threatens enemy,10,Goblin Strike: Strikes enemy with sword,5
-Zoro,35,Purgatory Onigiri: 3 Sword strikes covered with Haki!,11,1080 pound Phoniex: Slashes of light sent from cutting air,7
